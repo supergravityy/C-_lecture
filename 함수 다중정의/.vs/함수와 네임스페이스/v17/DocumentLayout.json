@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\98032\\source\\repos\\C\u002B\u002B_Lecture\\\uD568\uC218 \uB2E4\uC911\uC815\uC758\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75DF9D72-5D10-4B08-B183-223B01FE1945}|\uB124\uC784 \uB9F9\uAE00\uB9C1\\\uB124\uC784 \uB9F9\uAE00\uB9C1.vcxproj|C:\\Users\\98032\\source\\repos\\C\u002B\u002B_Lecture\\\uD568\uC218 \uB2E4\uC911\uC815\uC758\\\uB124\uC784 \uB9F9\uAE00\uB9C1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75DF9D72-5D10-4B08-B183-223B01FE1945}|\uB124\uC784 \uB9F9\uAE00\uB9C1\\\uB124\uC784 \uB9F9\uAE00\uB9C1.vcxproj|solutionrelative:\uB124\uC784 \uB9F9\uAE00\uB9C1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\98032\\Downloads\\CppForC\\03_nameMangling\\03_nameMangling.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\98032\\Downloads\\CppForC\\03_idSearchSeq01\\03_idSearchSeq01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 273,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\98032\\source\\repos\\C\u002B\u002B_Lecture\\\uD568\uC218 \uB2E4\uC911\uC815\uC758\\\uB124\uC784 \uB9F9\uAE00\uB9C1\\main.cpp",
+              "RelativeDocumentMoniker": "\uB124\uC784 \uB9F9\uAE00\uB9C1\\main.cpp",
+              "ToolTip": "C:\\Users\\98032\\source\\repos\\C\u002B\u002B_Lecture\\\uD568\uC218 \uB2E4\uC911\uC815\uC758\\\uB124\uC784 \uB9F9\uAE00\uB9C1\\main.cpp",
+              "RelativeToolTip": "\uB124\uC784 \uB9F9\uAE00\uB9C1\\main.cpp",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-14T11:48:02.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "3762c26a-0a85-4a39-bb18-30afc84825b8",
+        "Display": 0,
+        "X": 862,
+        "Y": 82,
+        "Width": 626,
+        "Height": 574,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "03_idSearchSeq01.cpp",
+              "DocumentMoniker": "C:\\Users\\98032\\Downloads\\CppForC\\03_idSearchSeq01\\03_idSearchSeq01.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\CppForC\\03_idSearchSeq01\\03_idSearchSeq01.cpp",
+              "ToolTip": "C:\\Users\\98032\\Downloads\\CppForC\\03_idSearchSeq01\\03_idSearchSeq01.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\CppForC\\03_idSearchSeq01\\03_idSearchSeq01.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-14T11:19:54.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "41f9722b-a4e4-4b70-9659-ecd8095ccd66",
+        "Display": 0,
+        "X": 235,
+        "Y": 191,
+        "Width": 630,
+        "Height": 576,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "03_nameMangling.cpp",
+              "DocumentMoniker": "C:\\Users\\98032\\Downloads\\CppForC\\03_nameMangling\\03_nameMangling.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\CppForC\\03_nameMangling\\03_nameMangling.cpp",
+              "ToolTip": "C:\\Users\\98032\\Downloads\\CppForC\\03_nameMangling\\03_nameMangling.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\CppForC\\03_nameMangling\\03_nameMangling.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-14T11:50:49.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
